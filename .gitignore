@@ -1,0 +1,4 @@
+# compiled output
+.vscode
+/obj/
+/bin/
